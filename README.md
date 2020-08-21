@@ -28,9 +28,7 @@
 
 - 🌱 I’m currently learning React native
 - 👯 I’m a part time Youtuber [Youtube](https://www.youtube.com/channel/UCcsJa71zJgNGw_kChPvYJGg)
-<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 - 💬 Ask me about Android or any tech related stuff.
-<!-- - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral) -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
 
