@@ -34,12 +34,12 @@
 
 **Languages and Tools**
 
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/react-native.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/JavaScript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/dart.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/react-native.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/android.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/bootstrap.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/JavaScript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/php.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/swift.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/flutter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/dart.png"></code>
