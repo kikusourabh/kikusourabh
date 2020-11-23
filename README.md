@@ -11,12 +11,6 @@
 <a href="https://github.com/kikusourabh">
   <img align="left" alt="Sourov's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/mr._karmakar_/">
-  <img align="left" alt="Sourov's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/sourov.karmakar.3726">
-  <img align="left" alt="Sourov's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UCcsJa71zJgNGw_kChPvYJGg">
   <img align="left" alt="Sourov's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -28,7 +22,7 @@
 
 - 🌱 I’m currently learning React native
 - 👯 I’m a part time Youtuber
-- 💬 Ask me about Android or any tech related stuff.
+- 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
 
