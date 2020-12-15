@@ -20,7 +20,7 @@
 
 <!-- - 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com). -->
 
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning Flutter
 - 👯 I’m a part time Youtuber
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His
